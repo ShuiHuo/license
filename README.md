@@ -35,3 +35,15 @@
 　　示例：
 
 　　　　用 ```LICENSE-CC0``` 中 ```README.md``` 中的 ```## 许可证``` 下面的与许可证有关的内容替换掉本段许可证使用说明，并用 ```LICENSE-CC0``` 中的 ```LICENSE.md``` 替换掉所有分支的 ```LICENSE.md```。
+
+<p xmlns:dct="http://purl.org/dc/terms/" align="center">
+  <a rel="license"
+     href="http://creativecommons.org/publicdomain/zero/1.0/">
+    <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
+  </a>
+  <br />
+  To the extent possible under law,
+  <span rel="dct:publisher" resource="[_:publisher]">the person who associated CC0</span>
+  with this work has waived all copyright and related or neighboring
+  rights to this work.
+</p>
