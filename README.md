@@ -1,11 +1,11 @@
-<p align="center"><a href="https://example.com/" target="_blank" rel="noopener noreferrer"><img width="100" src="https://example.com/images/logo.png" alt="示例图标"></a></p>
+<p align="center"><a href="https://example.com/" target="_blank" rel="noopener noreferrer"><img width="100" src="https://example.com/images/logo.png" alt="居中示例图标"></a></p>
 
 <h1 align="center">{Name}</h1>
 
 <div align="center">
 
   [![GitHub release](https://img.shields.io/github/release/qubyte/rubidium.svg?style=flat-square)]()
-  [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%20SA%204.0-lightgrey.svg?style=flat-square)](https://creativecommons.org/licenses/by/4.0/)
+  [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%20SA%204.0-lightgrey.svg?style=flat-square)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 </div>
 
@@ -30,7 +30,7 @@
 
 ## 许可证
 
-<div align="center">
-  <div><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享 4.0 国际许可协议</a>进行许可。</div>
-  <p>Copyright (c) 2016-present, ShuiHuo</p>
-</div>
+　　用 LICENSE 开头的分支中的对应内容进行替换。
+  
+　　示例：
+　　　　用 ```LICENSE-CC0``` 中 ```README.md``` 中的 ```## 许可证``` 下面的与许可证有关的内容替换掉本段许可证使用说明，并用 ```LICENSE-CC0``` 中的 ```LICENSE.md``` 替换掉所有分支的 ```LICENSE.md```。
