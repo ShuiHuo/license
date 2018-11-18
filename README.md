@@ -1,6 +1,6 @@
 <p align="center"><a href="https://example.com/" target="_blank" rel="noopener noreferrer"><img width="100" src="https://example.com/images/logo.png" alt="示例图标"></a></p>
 
-<h1 align="center">ShuiHuo Template</h1>
+<h1 align="center">{Name}</h1>
 
 <div align="center">
 
