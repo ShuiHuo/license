@@ -1,32 +1,4 @@
-<p align="center"><a href="https://example.com/" target="_blank" rel="noopener noreferrer"><img width="100" src="https://example.com/images/logo.png" alt="示例图标"></a></p>
-
-<h1 align="center">{Name}</h1>
-
-<div align="center">
-
-  [![GitHub release](https://img.shields.io/github/release/qubyte/rubidium.svg?style=flat-square)]()
-  [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%20SA%204.0-lightgrey.svg?style=flat-square)](https://creativecommons.org/licenses/by/4.0/)
-
-</div>
-
-## 介绍
-
-　　本项目是……
-
-## 文档
-
-　　详细文档可通过[文档](https://)查看。
-
-
-## 问题
-
-　　常见问题请阅读 wiki.
-　　请通过工单管理功能提交新问题。
-
-
-## 更新日志
-
-　　请查看提交或版本释放。
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%20SA%204.0-lightgrey.svg?style=flat-square)](https://creativecommons.org/licenses/by/4.0/)
 
 ## 许可证
 
