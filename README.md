@@ -4,8 +4,7 @@
 
 <div align="center">
 
-  [![GitHub release](https://img.shields.io/github/release/qubyte/rubidium.svg?style=flat-square)]()
-  [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%20SA%204.0-lightgrey.svg?style=flat-square)](https://creativecommons.org/licenses/by-sa/4.0/)
+  [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg?style=flat-square)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 </div>
 
